@@ -1,0 +1,1 @@
+const t={key:"v-788c5dfc",path:"/toollibrary/tool.html",title:"\u5E38\u7528\u5DE5\u5177\u51FD\u6570",lang:"zh-CN",frontmatter:{title:"\u5E38\u7528\u5DE5\u5177\u51FD\u6570"},excerpt:"",headers:[{level:3,title:"\u4EE3\u7801\u6F14\u793A",slug:"\u4EE3\u7801\u6F14\u793A",children:[]}],git:{},filePathRelative:"toollibrary/tool.md"};export{t as data};
